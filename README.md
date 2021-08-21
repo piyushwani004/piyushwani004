@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **piyushwani04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16n8hh8QKK6EKjq4H3mRVemmCUhX-zOA9/view?usp=sharing](https://drive.google.com/file/d/16n8hh8QKK6EKjq4H3mRVemmCUhX-zOA9/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1SHDe_PgmUHOFoXQRhXhv0D6WuWeuJZLQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
