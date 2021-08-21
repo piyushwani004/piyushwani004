@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://piyushwani004.github.io/portfolio/](https://piyushwani004.github.io/portfolio/)
 
-- 📫 How to reach me **piyushwani04@gmail.com**
+- 📫 Reach me at **piyushwani04@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16n8hh8QKK6EKjq4H3mRVemmCUhX-zOA9/view?usp=sharing](https://drive.google.com/file/d/16n8hh8QKK6EKjq4H3mRVemmCUhX-zOA9/view?usp=sharing)
 
