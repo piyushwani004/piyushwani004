@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **piyushwani04@gmail.com**
 
-- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1l4Yg0CG1p_2_LvYrP_gUnE4ovU_vPVUk/view?usp=sharing)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1_2I-APjZcq4nqbGK6szV8WtBHRfp_bxI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
