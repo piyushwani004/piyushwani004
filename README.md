@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1ltEXpM8gipzBv0D6DCSOx01TGQRteQwI/view?usp=sharing)
 
-- 📄 Know more about my Blog [MyBlog](http://inaminutes.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyushwani004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushwani004" height="30" width="40" /></a>
