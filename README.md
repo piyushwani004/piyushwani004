@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [MyPortfolio](https://piyushwani004.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://piyushwani004.netlify.app/)
 
 - 💬 Ask me about **Java and Flutter**
 
